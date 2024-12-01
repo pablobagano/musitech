@@ -1,5 +1,6 @@
-# Project Description: User Engagement Simulation
-This repository contains a Python script for simulating user engagement metrics. The code generates realistic retention, churn, and premium conversion data, along with lessons completed by users of varying skill levels.
+# Project Description: User Engagement Simulation - Musitech 🎼🎼 🎹🎸🎤♯♭
+- **Musitech** is a fictional global EdTech company providing online ukulele lessons through a multiplatform experience on Android, iOS, Mac, and Windows. Combining technology and expert guidance, Musitech makes learning fun and accessible for everyone.
+- This repository contains a Python script for simulating user engagement metrics. The code generates realistic retention, churn, and premium conversion data, along with lessons completed by users of varying skill levels.
 
 ## Key Features:
 - Lessons Completed Simulation:
