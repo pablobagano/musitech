@@ -1,5 +1,5 @@
-# Project Description: User Engagement Simulation for SaaS Analytics
-This repository contains a Python script for simulating user engagement metrics in a SaaS platform. The code generates realistic retention, churn, and premium conversion data, along with lessons completed by users of varying skill levels.
+# Project Description: User Engagement Simulation
+This repository contains a Python script for simulating user engagement metrics. The code generates realistic retention, churn, and premium conversion data, along with lessons completed by users of varying skill levels.
 
 ## Key Features:
 - Lessons Completed Simulation:
