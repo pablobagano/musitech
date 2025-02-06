@@ -1,0 +1,9 @@
+dash
+matplotlib
+nbformat
+numpy
+pandas
+plotly
+scipy
+seaborn
+statsmodels
